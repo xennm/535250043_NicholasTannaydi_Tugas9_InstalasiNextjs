@@ -1,4 +1,3 @@
-
 "use client";
 
 import Image from "next/image";
@@ -159,7 +158,7 @@ export default function Home() {
                     Explore Our Products!
                 </h1>
 
-                {/* Search Bar - Tampilan saja */}
+                {/* Search Bar*/}
                 <div className="search-container">
                     <input
                         type="text"
